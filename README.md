@@ -1,1 +1,1 @@
-<img src="https://www.mediafire.com/view/4zhk3aodkx37ier" alt="Tela Inicial" width="400">
+<img src="https://i.imgur.com/qugA5fu.png" alt="Tela Inicial" width="400">
